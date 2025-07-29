@@ -1,5 +1,7 @@
 clc; clear; close all;
 
+%pull test
+
 addpath('C:\Users\Gazdi\Documents\SynologyDrive\tanulmanyok\6.BME 2024-2025-2\Szakgyak\pdf_export');
 
 pdf_extractor;
