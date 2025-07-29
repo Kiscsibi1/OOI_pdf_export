@@ -1,0 +1,7495 @@
+Report
+
+
+Clinical Goals Table
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+MostImportant
+
+
+PTV eval
+
+
+V 95.0 % ≥ 97.0
+%
+
+
+≥ 95.00 %
+
+
+95.00 %
+
+
+WithinVariationAcceptable
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+MostImportant
+
+
+PTV eval
+
+
+Dmean ≤ 101.5 %
+
+
+≤ 103.00
+%
+
+
+102.40 %
+
+
+WithinVariationAcceptable
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+MostImportant
+
+
+PTV eval
+
+
+Dmean ≥ 100.0 %
+
+
+-
+
+
+102.40 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+MostImportant
+
+
+PTV eval
+
+
+Dmax < 112.0 %
+
+
+< 115.00
+%
+
+
+109.07 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+BODY
+
+
+Dmax < 112.0 %
+
+
+< 115.00
+%
+
+
+109.07 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+Lung_L
+
+
+Dmean < 1300
+cGy
+
+
+< 1600.00
+cGy
+
+
+1068.32
+cGy
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+Lung_L
+
+
+V 1700 cGy <
+25.0 %
+
+
+< 30.00 %
+
+
+24.27 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+Lung
+
+
+V 500 cGy < 60.0
+%
+
+
+< 70.00 %
+
+
+19.16 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+Heart
+
+
+V 1700 cGy < 8.0
+%
+
+
+< 10.00 %
+
+
+6.91 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+Heart
+
+
+V 3500 cGy ≤ 5.0
+%
+
+
+-
+
+
+1.47 %
+
+
+Passed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+VeryImportant
+
+
+Heart
+
+
+Dmean < 400 cGy
+
+
+< 500.00
+cGy
+
+
+449.73
+cGy
+
+
+WithinVariationAcceptable
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+Important
+
+
+Breast_R
+
+
+Dmax < 2000 cGy
+
+
+< 2500.00
+cGy
+
+
+2707.01
+cGy
+
+
+Failed
+
+
+C1
+
+
+BalEmlo_IMRT
+
+
+Important
+
+
+Breast_R
+
+
+Dmean < 300 cGy
+
+
+< 600.00
+cGy
+
+
+13.20 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.55 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 447 cGy <
+500.0 cm3
+
+
+-
+
+
+945.04
+cm3
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 1118 cGy <
+250.0 cm3
+
+
+-
+
+
+325.62
+cm3
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 2235 cGy <
+125.0 cm3
+
+
+-
+
+
+109.91
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+Dmean < 50 cGy
+
+
+-
+
+
+6.50 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+2473.30
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 0.0 cm3 < 260
+cGy
+
+
+-
+
+
+234.52
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 0.1 cm3 < 300
+cGy
+
+
+-
+
+
+213.92
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 1.0 cm3 < 600
+cGy
+
+
+-
+
+
+166.09
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 5.0 % < 600
+
+
+-
+
+
+12.25 cGy
+
+
+Passed
+
+
+Page 1 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+IMRT
+
+
+cGy
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 10.0 % < 500
+cGy
+
+
+-
+
+
+9.28 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 112 cGy < 5.0
+%
+
+
+-
+
+
+0.10 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 500 cGy < 10.0
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1502.86
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+V 125 cGy < 2.0
+%
+
+
+-
+
+
+8.62 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 0.0 cm3 < 300
+cGy
+
+
+-
+
+
+219.11
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 0.1 cm3 < 200
+cGy
+
+
+-
+
+
+215.54
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 1.0 cm3 < 100
+cGy
+
+
+-
+
+
+210.29
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 5.0 % < 100
+cGy
+
+
+-
+
+
+152.86
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+Dmax < 3690 cGy
+
+
+-
+
+
+1209.96
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 0.0 cm3 < 2300
+cGy
+
+
+-
+
+
+1209.96
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 0.1 cm3 < 90.0
+%
+
+
+-
+
+
+47.26 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 1.0 cm3 < 80.0
+%
+
+
+-
+
+
+41.80 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+V 2235 cGy < 0.5
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+V 1118 cGy <
+25.0 %
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Skin
+
+
+Dmax < 3300 cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 0.1 cm3 < 2450
+cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 0.2 cm3 < 2235
+cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 1.0 cm3 < 2011
+cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+661.43
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+Dmean < 400 cGy
+
+
+-
+
+
+26.91 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+Dmax < 3000 cGy
+
+
+-
+
+
+459.87
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 335 cGy < 1.0
+%
+
+
+-
+
+
+0.14 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 223 cGy < 5.0
+%
+
+
+-
+
+
+1.46 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 112 cGy < 40.0
+
+
+-
+
+
+3.08 %
+
+
+Passed
+
+
+Page 2 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+IMRT
+
+
+%
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 0.1 cm3 < 1118
+cGy
+
+
+-
+
+
+422.29
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 1.0 cm3 < 559
+cGy
+
+
+-
+
+
+331.94
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 2.0 cm3 < 224
+cGy
+
+
+-
+
+
+308.65
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 2.0 % < 250
+cGy
+
+
+-
+
+
+184.06
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1890.87
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+Dmean < 500 cGy
+
+
+-
+
+
+180.60
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 671 cGy < 10.0
+%
+
+
+-
+
+
+0.19 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 224 cGy < 20.0
+%
+
+
+-
+
+
+40.36 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 112 cGy < 45.0
+%
+
+
+-
+
+
+48.67 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 0.1 cm3 < 1341
+cGy
+
+
+-
+
+
+949.24
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 1.0 cm3 < 1118
+cGy
+
+
+-
+
+
+826.75
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 2.0 cm3 < 559
+cGy
+
+
+-
+
+
+731.81
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 2.0 % < 400
+cGy
+
+
+-
+
+
+524.42
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 10.0 % < 750
+cGy
+
+
+-
+
+
+411.52
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 2235 cGy < 0.5
+%
+
+
+-
+
+
+0.30 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 2123 cGy < 1.0
+%
+
+
+-
+
+
+1.20 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 1676 cGy < 3.0
+%
+
+
+-
+
+
+3.61 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 1118 cGy < 5.0
+%
+
+
+-
+
+
+10.30 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 559 cGy < 10.0
+%
+
+
+-
+
+
+25.26 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+Dmean < 2235
+cGy
+
+
+-
+
+
+341.11
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1276.73
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1376.06
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 2235 cGy <
+35.0 %
+
+
+-
+
+
+7.08 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 1676 cGy <
+35.0 %
+
+
+-
+
+
+10.56 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 1118 cGy <
+
+
+-
+
+
+16.78 %
+
+
+Passed
+
+
+Page 3 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+IMRT
+
+
+40.0 %
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+D 0.0 cm3 < 2600
+cGy
+
+
+-
+
+
+2493.24
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+Dmean > 0 cGy
+
+
+-
+
+
+481.84
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 2123 cGy >
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+GTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.55 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 2235 cGy >
+99.0 %
+
+
+-
+
+
+99.84 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+GTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2302.95
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+6.36 cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+56.32
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+CTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2299.81
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 2235 cGy >
+99.0 %
+
+
+-
+
+
+99.79 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+CTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.55 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 2123 cGy >
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+109.76
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2295.09
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2235 cGy ≥
+95.0 %
+
+
+-
+
+
+95.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 2.0 % < 2570
+cGy
+
+
+-
+
+
+2352.32
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 50.0 % < 2570
+cGy
+
+
+-
+
+
+2296.42
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 98.0 % < 2570
+cGy
+
+
+-
+
+
+2201.84
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.55 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 90.0 % < 2570
+cGy
+
+
+-
+
+
+2256.28
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2012 cGy ≥
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2123 cGy ≥
+95.0 %
+
+
+-
+
+
+99.89 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2347 cGy ≥
+80.0 %
+
+
+-
+
+
+3.78 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2459 cGy <
+50.0 %
+
+
+-
+
+
+0.01 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+
+
+ReportValueOnly
+
+
+PTV1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.55 %
+
+
+Passed
+
+
+Page 4 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+IMRT
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV1
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2294.68
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT
+IMRT
+
+
+ReportValueOnly
+
+
+PTV1
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+110.14
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.19 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 447 cGy <
+500.0 cm3
+
+
+-
+
+
+797.79
+cm3
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 1118 cGy <
+250.0 cm3
+
+
+-
+
+
+270.87
+cm3
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 2235 cGy <
+125.0 cm3
+
+
+-
+
+
+105.65
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+Dmean < 50 cGy
+
+
+-
+
+
+41.83 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+2473.30
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 0.0 cm3 < 260
+cGy
+
+
+-
+
+
+213.35
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 0.1 cm3 < 300
+cGy
+
+
+-
+
+
+201.56
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 1.0 cm3 < 600
+cGy
+
+
+-
+
+
+180.33
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 5.0 % < 600
+cGy
+
+
+-
+
+
+104.91
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 10.0 % < 500
+cGy
+
+
+-
+
+
+90.65 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 112 cGy < 5.0
+%
+
+
+-
+
+
+3.41 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 500 cGy < 10.0
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1502.86
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+V 125 cGy < 2.0
+%
+
+
+-
+
+
+0.08 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 0.0 cm3 < 300
+cGy
+
+
+-
+
+
+139.19
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 0.1 cm3 < 200
+cGy
+
+
+-
+
+
+134.38
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 1.0 cm3 < 100
+cGy
+
+
+-
+
+
+126.10
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 5.0 % < 100
+cGy
+
+
+-
+
+
+76.92 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+Dmax < 3690 cGy
+
+
+-
+
+
+1144.21
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 0.0 cm3 < 2300
+cGy
+
+
+-
+
+
+1144.21
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 0.1 cm3 < 90.0
+%
+
+
+-
+
+
+47.85 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 1.0 cm3 < 80.0
+%
+
+
+-
+
+
+42.99 %
+
+
+Passed
+
+
+Page 5 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+V 2235 cGy < 0.5
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+V 1118 cGy <
+25.0 %
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Skin
+
+
+Dmax < 3300 cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 0.1 cm3 < 2450
+cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 0.2 cm3 < 2235
+cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 1.0 cm3 < 2011
+cGy
+
+
+-
+
+
+N/A
+
+
+NA
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+661.43
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+Dmean < 400 cGy
+
+
+-
+
+
+68.56 cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+Dmax < 3000 cGy
+
+
+-
+
+
+494.13
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 335 cGy < 1.0
+%
+
+
+-
+
+
+1.14 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 223 cGy < 5.0
+%
+
+
+-
+
+
+5.91 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 112 cGy < 40.0
+%
+
+
+-
+
+
+21.73 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 0.1 cm3 < 1118
+cGy
+
+
+-
+
+
+475.30
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 1.0 cm3 < 559
+cGy
+
+
+-
+
+
+426.74
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 2.0 cm3 < 224
+cGy
+
+
+-
+
+
+400.13
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 2.0 % < 250
+cGy
+
+
+-
+
+
+299.17
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1890.87
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+Dmean < 500 cGy
+
+
+-
+
+
+128.62
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 671 cGy < 10.0
+%
+
+
+-
+
+
+0.62 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 224 cGy < 20.0
+%
+
+
+-
+
+
+19.50 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 112 cGy < 45.0
+%
+
+
+-
+
+
+38.94 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 0.1 cm3 < 1341
+cGy
+
+
+-
+
+
+934.67
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 1.0 cm3 < 1118
+cGy
+
+
+-
+
+
+852.35
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 2.0 cm3 < 559
+cGy
+
+
+-
+
+
+818.34
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 2.0 % < 400
+cGy
+
+
+-
+
+
+535.53
+cGy
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 10.0 % < 750
+cGy
+
+
+-
+
+
+327.02
+cGy
+
+
+Passed
+
+
+Page 6 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 2235 cGy < 0.5
+%
+
+
+-
+
+
+0.05 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 2123 cGy < 1.0
+%
+
+
+-
+
+
+0.40 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 1676 cGy < 3.0
+%
+
+
+-
+
+
+2.45 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 1118 cGy < 5.0
+%
+
+
+-
+
+
+7.25 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 559 cGy < 10.0
+%
+
+
+-
+
+
+18.96 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+Dmean < 2235
+cGy
+
+
+-
+
+
+272.88
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV1
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1276.73
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1376.06
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 2235 cGy <
+35.0 %
+
+
+-
+
+
+6.81 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 1676 cGy <
+35.0 %
+
+
+-
+
+
+9.48 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 1118 cGy <
+40.0 %
+
+
+-
+
+
+13.95 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+D 0.0 cm3 < 2600
+cGy
+
+
+-
+
+
+2485.08
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+Dmean > 0 cGy
+
+
+-
+
+
+419.68
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 2123 cGy >
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+GTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+110.10 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 2235 cGy >
+99.0 %
+
+
+-
+
+
+99.85 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+GTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2316.15
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+6.36 cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+56.32
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+CTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2316.34
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 2235 cGy >
+99.0 %
+
+
+-
+
+
+99.89 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+CTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+110.12 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 2123 cGy >
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+109.76
+cm3
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2311.51
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2235 cGy ≥
+
+
+-
+
+
+95.00 %
+
+
+Passed
+
+
+Page 7 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+95.0 %
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 2.0 % < 2570
+cGy
+
+
+-
+
+
+2369.74
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 50.0 % < 2570
+cGy
+
+
+-
+
+
+2317.19
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 98.0 % < 2570
+cGy
+
+
+-
+
+
+2198.63
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.19 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+D 90.0 % < 2570
+cGy
+
+
+-
+
+
+2267.46
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2012 cGy ≥
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2123 cGy ≥
+95.0 %
+
+
+-
+
+
+99.93 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2347 cGy ≥
+80.0 %
+
+
+-
+
+
+14.37 %
+
+
+Failed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV eval1
+
+
+V 2459 cGy <
+50.0 %
+
+
+-
+
+
+0.01 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+111.19 %
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV1
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2310.88
+cGy
+
+
+Passed
+
+
+C1
+
+
+B_APERT RA
+
+
+ReportValueOnly
+
+
+PTV1
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+110.14
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+113.64 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 447 cGy <
+500.0 cm3
+
+
+-
+
+
+577.66
+cm3
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 1118 cGy <
+250.0 cm3
+
+
+-
+
+
+193.99
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+BODY1
+
+
+V 2235 cGy <
+125.0 cm3
+
+
+-
+
+
+81.74
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+Dmean < 50 cGy
+
+
+-
+
+
+26.62 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+2473.30
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 0.0 cm3 < 260
+cGy
+
+
+-
+
+
+229.85
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 0.1 cm3 < 300
+cGy
+
+
+-
+
+
+223.24
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 1.0 cm3 < 600
+cGy
+
+
+-
+
+
+210.35
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 5.0 % < 600
+cGy
+
+
+-
+
+
+108.89
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+D 10.0 % < 500
+cGy
+
+
+-
+
+
+81.11 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 112 cGy < 5.0
+%
+
+
+-
+
+
+4.47 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo ELL
+
+
+V 500 cGy < 10.0
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1502.86
+cm3
+
+
+Passed
+
+
+Page 8 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+V 125 cGy < 2.0
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 0.0 cm3 < 300
+cGy
+
+
+-
+
+
+92.89 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 0.1 cm3 < 200
+cGy
+
+
+-
+
+
+82.86 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 1.0 cm3 < 100
+cGy
+
+
+-
+
+
+76.91 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo ELL
+
+
+D 5.0 % < 100
+cGy
+
+
+-
+
+
+51.71 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+Dmax < 3690 cGy
+
+
+-
+
+
+966.67
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 0.0 cm3 < 2300
+cGy
+
+
+-
+
+
+966.67
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 0.1 cm3 < 90.0
+%
+
+
+-
+
+
+40.17 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+D 1.0 cm3 < 80.0
+%
+
+
+-
+
+
+33.12 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+V 2235 cGy < 0.5
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Ribs
+
+
+V 1118 cGy <
+25.0 %
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Skin
+
+
+Dmax < 3300 cGy
+
+
+-
+
+
+2269.27
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 0.1 cm3 < 2450
+cGy
+
+
+-
+
+
+2130.50
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 0.2 cm3 < 2235
+cGy
+
+
+-
+
+
+2085.21
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+Skin
+
+
+D 1.0 cm3 < 2011
+cGy
+
+
+-
+
+
+1941.41
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+661.43
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+Dmean < 400 cGy
+
+
+-
+
+
+67.35 cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+Dmax < 3000 cGy
+
+
+-
+
+
+334.99
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 335 cGy < 1.0
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 223 cGy < 5.0
+%
+
+
+-
+
+
+2.31 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+V 112 cGy < 40.0
+%
+
+
+-
+
+
+16.43 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 0.1 cm3 < 1118
+cGy
+
+
+-
+
+
+317.35
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 1.0 cm3 < 559
+cGy
+
+
+-
+
+
+295.24
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 2.0 cm3 < 224
+cGy
+
+
+-
+
+
+285.88
+cGy
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+sziv
+
+
+D 2.0 % < 250
+cGy
+
+
+-
+
+
+229.73
+cGy
+
+
+Passed
+
+
+Page 9 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1890.87
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+Dmean < 500 cGy
+
+
+-
+
+
+112.71
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 671 cGy < 10.0
+%
+
+
+-
+
+
+0.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 224 cGy < 20.0
+%
+
+
+-
+
+
+17.24 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+V 112 cGy < 45.0
+%
+
+
+-
+
+
+33.79 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 0.1 cm3 < 1341
+cGy
+
+
+-
+
+
+665.59
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 1.0 cm3 < 1118
+cGy
+
+
+-
+
+
+587.73
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 2.0 cm3 < 559
+cGy
+
+
+-
+
+
+562.61
+cGy
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 2.0 % < 400
+cGy
+
+
+-
+
+
+434.47
+cGy
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+tudo AZO
+
+
+D 10.0 % < 750
+cGy
+
+
+-
+
+
+293.78
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+V 2235 cGy < 0.5
+%
+
+
+-
+
+
+0.42 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+V 2123 cGy < 1.0
+%
+
+
+-
+
+
+1.08 %
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+V 1676 cGy < 3.0
+%
+
+
+-
+
+
+2.97 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+V 1118 cGy < 5.0
+%
+
+
+-
+
+
+5.44 %
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+V 559 cGy < 10.0
+%
+
+
+-
+
+
+15.10 %
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+Dmean < 2235
+cGy
+
+
+-
+
+
+298.77
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+azo emlo-
+PTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1302.05
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+1376.06
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 2235 cGy <
+35.0 %
+
+
+-
+
+
+5.66 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 1676 cGy <
+35.0 %
+
+
+-
+
+
+8.18 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+V 1118 cGy <
+40.0 %
+
+
+-
+
+
+10.52 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+D 0.0 cm3 < 2600
+cGy
+
+
+-
+
+
+2539.77
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+emlo AZO
+
+
+Dmean > 0 cGy
+
+
+-
+
+
+409.79
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 2123 cGy >
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+GTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+110.41 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 2235 cGy >
+
+
+-
+
+
+98.88 %
+
+
+Failed
+
+
+Page 10 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
+
+
+Course
+ID
+
+
+PlanSetup
+ID
+
+
+Structure
+ID
+
+
+Priority
+
+
+Objective
+
+
+Tolerance
+
+
+Actual
+
+
+Achieved
+
+
+99.0 %
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+GTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2312.99
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+GTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+6.36 cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+56.32
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+CTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2373.95
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 2235 cGy >
+99.0 %
+
+
+-
+
+
+99.56 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+CTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+113.64 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+CTV
+
+
+V 2123 cGy >
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+77.37
+cm3
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2362.51
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+V 2235 cGy ≥
+95.0 %
+
+
+-
+
+
+98.03 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+D 2.0 % < 2570
+cGy
+
+
+-
+
+
+2472.94
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+D 50.0 % < 2570
+cGy
+
+
+-
+
+
+2366.47
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+D 98.0 % < 2570
+cGy
+
+
+-
+
+
+2235.39
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+113.64 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+D 90.0 % < 2570
+cGy
+
+
+-
+
+
+2282.05
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+V 2012 cGy ≥
+99.0 %
+
+
+-
+
+
+100.00 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+V 2123 cGy ≥
+95.0 %
+
+
+-
+
+
+99.99 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+V 2347 cGy ≥
+80.0 %
+
+
+-
+
+
+61.67 %
+
+
+Failed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV eval
+
+
+V 2459 cGy <
+50.0 %
+
+
+-
+
+
+4.32 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV
+
+
+Dmax < 115.0 %
+
+
+-
+
+
+113.64 %
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV
+
+
+Dmean > 2235
+cGy
+
+
+-
+
+
+2362.51
+cGy
+
+
+Passed
+
+
+C1
+
+
+Dose
+
+
+ReportValueOnly
+
+
+PTV
+
+
+V 0 cGy > 0.0
+cm3
+
+
+-
+
+
+77.37
+cm3
+
+
+Passed
+
+
+Page 11 of 11
+
+
+Script name: ClinicalGoals
+Username: oncol\koszta.eniko
+
+
+Patient: ARGYELLANATTILA, ALAJOSNE (071022253)
+14 July, 2025 11:59:22 (UTC +02:00 Central Europe Daylight Time)
