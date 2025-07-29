@@ -1,8 +1,7 @@
 clc; clear; close all;
 
-%pull test
 
-addpath('C:\Users\Gazdi\Documents\SynologyDrive\tanulmanyok\6.BME 2024-2025-2\Szakgyak\pdf_export');
+addpath(fullfile("MATLAB", "Drive","repo","OOI_pdf_export","pdf_export"));
 
 pdf_extractor;
 
@@ -10,7 +9,7 @@ clc; clear; close all;
 
 
 folderPath = fileparts(mfilename('fullpath'));
-path = folderPath+ "\data";
+path = fullfile(folderPath, "data");
 files = dir(fullfile(path, '*.xlsx'));
 
 
@@ -217,13 +216,13 @@ data_export = [data_export,Actual];
 data_export=rows2vars(data_export);
 
 
-location = fullfile( folderPath, "\result" , files(patient).name );
+location = fullfile( folderPath, "result" , files(patient).name );
 
 writetable(data_export, location);
 
 
 %Beleirni a tobbihez
-pdf_export = "C:\Users\Gazdi\Documents\SynologyDrive\tanulmanyok\6.BME 2024-2025-2\Szakgyak\pdf_export\excel";
+pdf_export = fullfile("MATLAB", "Drive","repo","OOI_pdf_export","pdf_export","excel");
 location = fullfile(pdf_export, files(patient).name); 
 if isfile(location)
 writetable(data_export,location,"WriteMode","append")
