@@ -3,7 +3,7 @@ clc; clear; close all;
 
 
 folderPath = fileparts(mfilename('fullpath'));
-path = folderPath+ "\data";
+path = fullfile(folderPath, "data");
 files = dir(fullfile(path, '*.pdf'));
 patient_number = 1;
 
@@ -122,7 +122,7 @@ for n = 1:height(files)
 
     
     file_name = id + '.xlsx';
-    location = fullfile(folderPath, "\excel", file_name);
+    location = fullfile(folderPath, "excel", file_name);
 
     if isfile(location)
         delete(location);
