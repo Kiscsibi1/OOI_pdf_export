@@ -6,6 +6,7 @@ folderPath = fileparts(mfilename('fullpath'));
 path = fullfile(folderPath, "data");
 files = dir(fullfile(path, '*.pdf'));
 patient_number = 1;
+starter_word = "asd";
 
 for n = 1:height(files)
     file = fullfile(path, files(n).name);
@@ -33,6 +34,7 @@ for n = 1:height(files)
             i = i+1;
             end
                 if new
+                    starter_word = raw(i+1);
                     name = [name, 'Achieved'];
                 end
             new = false;
@@ -45,6 +47,7 @@ for n = 1:height(files)
             i = i+1;
             end
                 if new
+                    starter_word = raw(i+1);
                     name = [name, 'Achieved'];
                 end
             new = false;
@@ -60,7 +63,7 @@ for n = 1:height(files)
     
         end
     
-        if contains(raw(i), 'C1') || strcmp(raw(i), "bal_emlo")
+        if contains(raw(i), starter_word)
             new_row = [];
             for k = 1:column_count
                 new_row = [new_row, raw(i)];
