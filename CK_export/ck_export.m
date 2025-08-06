@@ -1,8 +1,7 @@
 clc; clear; close all;
 
-online = false;
 
-if online
+if ispc
 %online
 addpath(fullfile("/MATLAB Drive","repo","OOI_pdf_export","pdf_export"));
 else
@@ -14,7 +13,6 @@ pdf_extractor;
 
 clc; clear; close all;
 
-online = false;
 
 folderPath = fileparts(mfilename('fullpath'));
 path = fullfile(folderPath, "data");
@@ -230,7 +228,7 @@ writetable(data_export, location);
 
 
 %Beleirni a tobbihez
-if online
+if ispc
 %online
 pdf_export = fullfile("MATLAB", "Drive","repo","OOI_pdf_export","pdf_export","excel");
 else
