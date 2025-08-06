@@ -1,12 +1,20 @@
 clc; clear; close all;
 
+online = false;
 
+if online
+%online
 addpath(fullfile("/MATLAB Drive","repo","OOI_pdf_export","pdf_export"));
+else
+%client
+addpath("C:\Users\Gazdi\Documents\SynologyDrive\tanulmanyok\6.BME 2024-2025-2\Szakgyak\pdf_export");
+end
 
 pdf_extractor;
 
 clc; clear; close all;
 
+online = false;
 
 folderPath = fileparts(mfilename('fullpath'));
 path = fullfile(folderPath, "data");
@@ -222,7 +230,15 @@ writetable(data_export, location);
 
 
 %Beleirni a tobbihez
+if online
+%online
 pdf_export = fullfile("MATLAB", "Drive","repo","OOI_pdf_export","pdf_export","excel");
+else
+%client
+pdf_export = "C:\Users\Gazdi\Documents\SynologyDrive\tanulmanyok\6.BME 2024-2025-2\Szakgyak\pdf_export\excel";
+end
+
+
 location = fullfile(pdf_export, files(patient).name); 
 if isfile(location)
 writetable(data_export,location,"WriteMode","append")

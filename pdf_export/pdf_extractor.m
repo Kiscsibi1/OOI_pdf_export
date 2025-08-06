@@ -60,7 +60,7 @@ for n = 1:height(files)
     
         end
     
-        if contains(raw(i), 'C1')
+        if contains(raw(i), 'C1') || strcmp(raw(i), "bal_emlo")
             new_row = [];
             for k = 1:column_count
                 new_row = [new_row, raw(i)];
