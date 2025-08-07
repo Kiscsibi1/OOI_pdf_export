@@ -2,8 +2,10 @@ pdf_export/data/*
 pdf_export/excel/*
 ck_export/data/*
 ck_export/result/*
+szakgyak_adminisztracio
 !pdf_export/data/.keep
 !pdf_export/excel/.keep
 !ck_export/data/.keep
 !ck_export/result/.keep
+
 
